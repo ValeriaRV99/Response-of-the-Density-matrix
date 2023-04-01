@@ -1,5 +1,5 @@
 # Response-of-the-Density-matrix
-#### Porpose
+#### Purpose
 To model the effect of an external potential, we begin by generating the density matrix of a water molecule and 1000 external potentials. The application of each potential induces a change in the density matrix, which we express through the mapping:
 
 $\delta \gamma \leftrightarrow \delta v$
